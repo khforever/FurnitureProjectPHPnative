@@ -12,7 +12,8 @@ $data = $db->select("*", "furniture"," id='$id'");
 $furnitures = $data->fetchAll(pdo::FETCH_ASSOC);
  
  
-///////////
+///////////////////////////////////
+
 
 
 $data = $db->select("category", "furniture"," id='$id'");
