@@ -318,15 +318,8 @@ if (isset($_POST['update'])) {
 
 if(headers_sent()){
 
-	 
-	 
- 
- die (""); 
 
- 
-  
- 
- 
+ die (""); 
 
 }
 else{
