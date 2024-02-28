@@ -305,11 +305,6 @@ if (isset($_POST['update'])) {
 <center><a href="categories.php">Categorires </a>   </center>
 
 
-
-
-
-
-
 									<form  method="POST" action="<?php echo $_SERVER["PHP_SELF"] ?>" id="demo-form2" data-parsley-validate class="form-horizontal form-label-left">
 
 										<div class="item form-group">
